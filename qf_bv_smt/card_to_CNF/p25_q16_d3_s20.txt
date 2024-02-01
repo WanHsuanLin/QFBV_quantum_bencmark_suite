@@ -18042,3 +18042,4 @@
 (assert (or (not ifswap_e39_t0) (not anx_2118) anx_2119))
 (assert (or (not ifswap_e39_t1) (not anx_2119) anx_2120))
 (assert (or (not ifswap_e39_t2) (not anx_2120)))
+(check-sat)

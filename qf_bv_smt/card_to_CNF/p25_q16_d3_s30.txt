@@ -20122,3 +20122,4 @@
 (assert (or (not ifswap_e39_t0) (not anx_2818) anx_2819))
 (assert (or (not ifswap_e39_t1) (not anx_2819) anx_2820))
 (assert (or (not ifswap_e39_t2) (not anx_2820)))
+(check-sat)

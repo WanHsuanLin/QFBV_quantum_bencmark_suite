@@ -37426,3 +37426,4 @@
 (assert (or (not ifswap_e59_t0) (not anx_4678) anx_4679))
 (assert (or (not ifswap_e59_t1) (not anx_4679) anx_4680))
 (assert (or (not ifswap_e59_t2) (not anx_4680)))
+(check-sat)
